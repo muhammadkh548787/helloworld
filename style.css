@@ -1,0 +1,1120 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.nav{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 25px;
+    font-family: sans-serif;
+    color: grey;
+}
+.but{
+    width: 150px;
+    height: 40px;
+    border: none;
+    border-radius: 20px;
+    color: white;
+    background-color: rgb(51, 161, 51);
+}
+.num{
+    color: black;
+}
+.nav1{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 15px;
+    font-family: sans-serif;
+    color: grey;
+}
+.img{
+    width: 20px;
+    height: 25px;
+    position: absolute;
+    left: 430px;
+}
+.back{
+    width: 99.8%;
+    height: 500px;
+    border: 1px solid green;
+    margin-top: 50px;
+    display: flex;
+    background-color: green;
+}
+.left{
+    width: 400px;
+    height: 300px;
+    border: 1px solid green;
+    color: white;
+    background-color: green;
+    margin-top: 100px;
+    margin-left: 100px;
+}
+.lor{
+    font-family: sans-serif;
+    font-weight: 700;
+    font-size: 35px;
+}
+.qq{
+    font-family: sans-serif;
+    padding-top: 20px;
+}
+.but2{
+    width: 170px;
+    height: 40px;
+    border: none;
+    border-radius: 20px;
+    color: green;
+    background-color: white;
+    font-weight: 700;
+    margin-top: 20px;
+}
+.ww{
+    width: 500px;
+    margin-left: 200px;
+   
+}
+.res{
+    width: 20px;
+    height: 20px;
+    display: none;
+}
+.rr{
+    width: 500px;
+    height: 600px;
+    border: 1px solid white;
+    margin-top: 100px;
+    margin-left: 50px;
+}
+.yy{
+    width: 500px;
+    height: 600px;
+    border: 1px solid black;
+    margin-top: 100px;
+    margin-left: 50px;
+}
+.oo{
+    display: flex;
+    justify-content: space-around;
+}
+.pp{
+    font-family: sans-serif;
+    font-size: 50px;
+    font-weight: 700;
+    padding-left: 30px;
+}
+.aa{
+    font-family: sans-serif;
+    color: rgb(70, 68, 68);
+    padding-top: 20px;
+    padding-left: 30px;
+    line-height: 25px;
+}
+.dd{
+    width: 600px;
+    height: 600px;
+    border: 1px solid white;
+    margin-top: 100px;
+    margin-left: 50px;
+    background-image: url(/images/Mask\ group\ \(1\).png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.qwert{
+        margin: 0;
+        padding: 0;
+        display: none;
+}
+.for{
+    display: flex;
+    margin-top: 100px;
+}
+.pro{
+    font-family: sans-serif;
+    font-size: 35px;
+    font-weight: 700;
+    margin-left: 100px;
+}
+.max{
+    width: 170px;
+    margin-left: 500px;
+    background-color: green;
+    color: white;
+    border: none;
+    border-radius: 15px;
+}
+.chor{
+    width: 250px;
+    height: 250px;
+    
+    box-shadow: 3px 3px 3px grey, -3px -3px 3px grey;
+}
+.all5{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 50px;
+}
+.a1{
+    width: 250px;
+}
+.ufc{
+    font-size: 20px;
+    font-family: sans-serif;
+    font-weight: 700;
+    padding-left: 10px;
+}
+.mma{
+    font-family: sans-serif;
+    color: green;
+    padding-top: 10px;
+    padding-left: 10px;
+}
+.all6{
+    display: none;
+}
+.min{
+    display: none;
+}
+.boy{
+    font-family: sans-serif;
+    font-weight: 700;
+    font-size: 30px;
+    margin-left: 100px;
+    margin-top: 100px;
+}
+.khab{
+    display: flex;
+    justify-content: space-between;
+}
+.srk{
+    height: 30px;
+    width: 60px;
+    margin-top: 100px;
+    margin-right: 50px;
+}
+.rem{
+    width: 250px;
+    height: 300px;
+    border: 1px solid white;
+}
+.all50{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 50px;
+}
+.b1{
+    width: 250px;
+    height: 200px;
+}
+.b3{
+    font-family: sans-serif;
+    font-weight: 700;
+}
+.b4{
+    font-family: sans-serif;
+    padding-top: 10px;
+}
+.tamaev{
+    width: 150px;
+    height: 35px;
+    border: none;
+    border-radius: 20px;
+    color: white;
+    background-color: green;
+    margin-top: 10px;
+}
+.nurm{
+    width: 150px;
+    height: 35px;
+    border: 1px solid green;
+    border-radius: 20px;
+    color: green;
+    background-color: white;
+    margin-top: 10px;
+    font-weight: 700;
+    margin-left: 600px;
+    margin-top: 30px;
+}
+.aza{
+     width: 150px;
+    height: 35px;
+    border: 1px solid green;
+    border-radius: 20px;
+    color: green;
+    background-color: white;
+    margin-top: 10px;
+    font-weight: 700;
+    margin-top: 30px;
+}
+.none{
+    display: none;
+}
+.comp{
+    font-size: 30px;
+    font-weight: 700;
+    font-family: sans-serif;
+    margin-top: 100px;
+    margin-left: 100px;
+}
+.tel{
+    width: 600px;
+    height: 400px;
+    border: 1px solid black;
+    margin-top: 20px;
+    margin-left: 100px;
+    display: flex;
+}
+.sch{
+    font-family: sans-serif;
+    font-size: 25px;
+    font-weight: 700;
+    margin-top: 20px;
+    margin-left: 50px;
+}
+.str, .html{
+    width: 400px;
+    font-family: sans-serif;
+    margin-top: 10px;
+    margin-left: 20px;
+}
+.hello{
+     margin-top: 50px;
+     width: 50px;
+     position: absolute;
+}
+.ertug{
+    width: 600px;
+    height: 400px;
+    border: 1px solid white;
+    background-color: green;
+    border-radius: 10px;
+}
+.turgut{
+    width: 250px;
+    position: relative;
+    left: 180px;
+    bottom: 140px;
+    
+}
+.world{
+    font-family: sans-serif;
+    font-size: 25px;
+    font-weight: 700;
+    padding-left: 20px;
+    padding-top: 30px;
+    color: white;
+}
+.hi{
+    width: 300px;
+    font-family: sans-serif;
+    padding: 10px;
+    color: white;
+}
+.pod{
+    width: 120px;
+    height: 40px;
+    border: none;
+    border-radius: 20px;
+    color: green;
+    background-color: white;
+    position: relative;
+    bottom: 180px;
+    left: 20px;
+}
+.ertug1{
+    width: 300px;
+    height: 200px;
+    border: 1px solid white;
+    background-color: rgb(88, 50, 124);
+    border-radius: 10px;
+}
+.world1{
+    font-family: sans-serif;
+    font-size: 15px;
+    font-weight: 400;
+    padding-left: 10px;
+    padding-top: 10px;
+    color: white;
+}
+.hi1{
+    font-family: sans-serif;
+    padding: 10px;
+    color: white;
+}
+.pod1{
+    width: 100px;
+    height: 30px;
+    border: none;
+    border-radius: 20px;
+    color: green;
+    background-color: white;
+    position: relative;
+    bottom: 70px;
+    left: 10px;
+}
+.turgut1{
+    width: 150px;
+    position: relative;
+    bottom: 50px;
+    left: 30px;
+}
+.colo{
+    display: flex;
+}
+.ertug2{
+    width: 300px;
+    height: 200px;
+    border: 1px solid white;
+    background-color: rgb(214, 82, 82);
+    border-radius: 10px;
+}
+.teyt{
+    display: flex;
+}
+.ertug3{
+    width: 300px;
+    height: 200px;
+    border: 1px solid white;
+    background-color: rgb(252, 252, 69);
+    border-radius: 10px;
+}
+.ertug4{
+    width: 300px;
+    height: 200px;
+    border: 1px solid white;
+    background-color: rgb(0, 255, 221);
+    border-radius: 10px;
+}
+.letter{
+    display: flex;
+    margin-left: 50px;
+    margin-top: 20px;
+}
+.eye{
+    margin-left: 20px;
+}
+.ertugrul{
+    width: 300px;
+    height: 500px;
+    border: 1px solid white;
+    background-color: green;
+    border-radius: 10px;
+}
+.turgut66{
+    width: 200px;
+    position: relative;
+    left: 100px;
+    bottom: 50px;
+}
+.pod66{
+     width: 100px;
+    height: 30px;
+    border: none;
+    border-radius: 20px;
+    color: green;
+    background-color: white;
+    position: relative;
+    left: 10px;
+    top: 30px;
+}
+.foot{
+    display: none;
+}
+.exam{
+    display: none;
+}
+.click{
+    font-family: sans-serif;
+    font-size: 25px;
+    font-weight: 700;
+    margin-left: 100px;
+    margin-top: 80px;
+}
+.me{
+    width: 350px;
+    height: 100px;
+    border: 1px solid white;
+    display: flex;
+    background-color: rgb(12, 156, 156);
+}
+.circle{
+    width: 80px;
+    height: 80px;
+    border: 1px solid white;
+    border-radius: 50px;
+    margin-left: 10px;
+    margin-top: 7px;
+    background-color: white;
+}
+.knopka{
+    margin-left: 15px;
+    margin-top: 15px;
+}
+.ne{
+    margin-left: 30px;
+    margin-top: 30px;
+    color: white;
+}
+.ho{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 30px;
+}
+.knopka1{
+    margin-left: 22px;
+    margin-top:22px;
+    
+}
+.knopka2{
+    margin-left: 22px;
+    margin-top:22px;
+}
+.va{
+    margin-top: 10px;
+    display: none;
+}
+.phon{
+    width: 600px;
+    height: 400px;
+    border: 1px solid white;
+    margin-left: 100px;
+    margin-top: 50px;
+}
+.bra{
+    line-height: 25px;
+    font-family: sans-serif;
+}
+.okk{
+    width: 130px;
+    height: 30px;
+    border: none;
+    border-radius: 10px;
+    background-color: green;
+    color: white;
+    margin-top: 20px;
+}
+.no{
+    width: 600px;
+    height: 400px;
+    border: 1px solid white;
+    margin-top: 50px;
+    margin-left: 20px;
+    background-image: url(/images/Mask\ group\ \(1\).png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.yok{
+    display: flex;
+}
+.kani{
+    display: none;
+
+}
+.basay{
+    display: none;
+}
+.nash{
+    font-size: 30px;
+    font-family: sans-serif;
+    font-weight: 700;
+    margin-top: 100px;
+    margin-left: 100px;
+}
+.biyo{
+    width: 300px;
+    height: 380px;
+    border: 1px solid white;
+    margin-top: 100px;
+    background-color: rgb(201, 198, 198);
+    border-radius: 25px;
+}
+.zur{
+    width: 250px;
+    position: relative;
+    bottom: 50px;
+    left: 20px;
+}
+.mm{
+    font-size: 20px;
+    font-family: sans-serif;
+    font-weight: 700;
+    margin-left: 20px;
+}
+.mish{
+    font-family: sans-serif;
+    margin-left: 20px;
+}
+.op{
+    display: flex;
+    justify-content: space-evenly;
+}
+.what{
+    display: none;
+}
+.why{
+    font-size: 30px;
+    font-family: sans-serif;
+    font-weight: 700;
+    margin-top: 100px;
+    margin-left: 100px;
+    display: flex;
+}
+.when{
+    width: 1200px;
+    height: 500px;
+    border: 1px solid white;
+    margin-left: 70px;
+    margin-top: 50px;
+    background-color: rgb(201, 198, 198);
+}
+.it{
+    position: absolute;
+    width: 600px;
+    height: 50px;
+    border: 1px solid white;
+    left: 148px;
+    background-color: white;
+    top: 4427px;
+    font-family: sans-serif;
+    font-weight: 700;
+    
+    
+}
+.jj{
+    padding-top: 15px;
+    color: green;
+}
+.he{
+    width: 500px;
+    height: 480px;
+    border: 1px solid white;
+    position: absolute;
+    top: 4427px;
+    left: 750px;
+    background-color: white;
+}
+
+.is{
+    line-height: 50px;
+    margin-left: 70px;
+    font-family: sans-serif;
+    font-weight: 700;
+    padding-top: 60px;
+}
+.didi{
+    font-family: sans-serif;
+    font-weight: 700;
+    font-size: 25px;
+}
+.diga{
+    font-family: sans-serif;
+    padding-top: 20px;
+}
+.name{
+    width: 300px;
+    
+}
+.bini{
+    padding-top: 50px;
+    padding-left: 20px;
+    
+}
+.raq{
+    font-size: 30px;
+    padding-top: 20px;
+    font-weight: 700;
+    font-family: sans-serif;
+    color: green;
+    
+}
+.forg{
+    display: flex;
+}
+.sorry{
+    width: 350px;
+    height: 1015px;
+    border: 1px solid grey;
+    display: none;
+}
+.dream{
+    font-family: sans-serif;
+    font-size: 20px;
+    font-weight: 700;
+    color: green;
+}
+.today{
+    font-family: sans-serif;
+    font-weight: 700;
+    font-size: 20px;
+    padding-top: 10px;
+    
+}
+.night{
+    font-family: sans-serif;
+    padding-top: 15px;
+}
+.note{
+    padding-left: 20px;
+}
+.far{
+    width: 300px;
+}
+span{
+    font-weight: 700;
+}
+.isnot{
+    line-height: 40px;
+    padding-left: 10px;
+    font-family: sans-serif;
+    width: 290px;
+    height: 320px;
+    border: 1px solid rgb(219, 218, 218);
+    background-color: rgb(219, 218, 218);
+}
+.wow{
+    font-size: 20px;
+    font-family: sans-serif;
+    font-weight: 700;
+    margin-left: 100px;
+    margin-top: 100px;
+}
+.sum{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 50px;
+}
+
+
+
+.prob{
+    display: flex;
+    margin-top: 10px;
+    margin-left: 10px;
+    display: none;
+}
+.act{
+    margin-top: 60px;
+}
+.chiba{
+    margin-left: 10px;
+    margin-top: 20px;
+}
+.sub{
+    margin-top: 20px;
+}
+.stop{
+    font-family: sans-serif;
+    font-weight: 700;
+    font-size: 30px;
+    margin-top: 100px;
+    margin-left: 100px;
+}
+.space{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 50px;
+}
+.kon{
+    display: flex;
+    margin-left: 10px;
+    margin-top: 20px;
+}
+.dis{
+    display: flex;
+    margin-left: 10px;
+    margin-top: 15px;
+}
+.ql{
+    margin-left: 15px;
+}
+.fu{
+    margin-left: 15px;
+}
+.nado{
+    display: none;
+    margin-left: 30px;
+}
+.osman, .ql, .voy, .fu{
+    width: 150px;
+    height: 200px;
+}
+.pulot{
+    width: 600px;
+    height: 400px;
+    border: 1px solid black;
+    font-family: sans-serif;
+    background-color: black;
+    color: white;
+}
+.bamsi{
+    width: 900px;
+    height: 400px;
+    border: 1px solid white;
+    background-image: url(/images/Rectangle\ 175.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.black{
+    display: flex;
+    margin-top: 100px;
+}
+.eco{
+    font-family: sans-serif;
+    font-size: 25px;
+    font-weight: 700;
+    margin-top: 100px;
+    margin-left: 100px;
+}
+.high{
+    margin-left: 100px;
+    margin-top: 20px;
+}
+.logo{
+    width: 150px;
+    height: 40px;
+    border: none;
+    color: white;
+    background-color: green;
+    border-radius: 15px;
+    margin-left: 100px;
+    margin-top: 30px;
+}
+.done{
+    width: 99.8%;
+    height: 350px;
+    border: 1px solid green;
+    display: flex;
+    background-color: green;
+    color: white;
+}
+.vsyo{
+    width: 180px;
+    height: 50px;
+    margin-left: 100px;
+    margin-top: 100px;
+}
+.class{
+    font-family: sans-serif;
+    margin-left: 100px;
+    margin-top: 20px;
+}
+.chexol{
+    font-family: sans-serif;
+    font-weight: 700;
+    font-size: 20px;
+    margin-top: 20px;
+}
+.davay{
+    line-height: 25px;
+    margin-top: 80px;
+    margin-left: 70px;
+    font-family: sans-serif;
+}
+.maket{
+    width: 400px;
+    height: 1020px;
+    border: 1px solid black;
+    margin-top: 50px;
+}
+.pulot1{
+    width: 400px;
+    height: 300px;
+    border: 1px solid black;
+    font-family: sans-serif;
+    background-color: black;
+    color: white;
+    
+}
+.eco1{
+    font-family: sans-serif;
+    font-size: 25px;
+    font-weight: 700;
+    margin-top: 20px;
+    margin-left: 50px;
+}
+.high1{
+    margin-left: 50px;
+    margin-top: 10px;
+}
+.logo1{
+    width: 150px;
+    height: 40px;
+    border: none;
+    color: white;
+    background-color: green;
+    border-radius: 15px;
+    margin-left: 50px;
+    margin-top: 30px;
+}
+.harita{
+    width: 400px;
+    height: 300px;
+}
+.sur{
+    margin-left: 50px;
+    margin-top: 40px;
+}
+.gum{
+    display: flex;
+    font-size: 14px;
+    margin-left: 30px;
+    justify-content: space-around;
+}
+.petukh{
+    display: flex;
+    justify-content: space-around;
+}
+.form{
+    display: flex;
+    justify-content: space-around;
+}
+.maket{
+    display: none;
+}
+.strelka{
+    color: white;
+    background-color: green;
+    font-family: sans-serif;
+}
+
+
+
+
+@media (max-width: 400px) {
+    .nav .par, .img, .num, .ee, .but{
+        display: none;
+    }
+    .nav1 .img2{
+        margin-right: 200px;
+    }
+    .nav1 p{
+        display: none;
+    }
+    .back{
+        width: 100%;
+        height: 400px;
+    }
+    .ww{
+        display: none;
+    }
+    .left{
+       margin-top:20px;
+       margin-left: 30px;
+    }
+    .res{
+        display: block;
+    }
+    .oo .dd{
+        display: none;
+    }
+    .oo{
+        display: none;
+    }
+    .qwert{
+        display: block;
+        margin-top: 10px;
+        margin-left: 10px;
+    }
+    .qwert .rr{
+        margin-top: 0;
+        margin-left: 0;
+        width: 380px;
+    }
+    
+    .qwert .xx{
+        font-size: 30px;
+        font-family: sans-serif;
+        font-weight: 700;
+        padding-left: 20px;
+    }
+    .qwert .dd{
+        width: 300px;
+        height: 300px;
+        margin-top: 140px;
+    }
+    .for .max{
+        display: none;
+    }
+    .for .pro{
+        margin-top: 0px;
+        margin-left: 20px;
+        width: 300px;
+    }
+    .all6{
+        display: block;
+    }
+    .all5{
+        display: none;
+    }
+    .all6 .chor{
+        margin-top: 20px;
+        margin-left: 20px;
+        width: 300px;
+        height: 300px;
+    }
+    .all6 .a1{
+        width: 300px;
+        
+    }
+    .min{
+    width: 170px;
+    background-color: green;
+    color: white;
+    border: none;
+    border-radius: 30px;
+    display: block;
+    height: 50px;
+    margin-top: 50px;
+    margin-left: 20px;
+    }
+    .khab .srk{
+        display: none;
+    }
+    .khab .boy{
+        margin-left: 10px;
+        margin-top: 70px;
+    }
+    .none{
+        display: block;
+        
+    }
+    .all50{
+        display: none;
+        
+    }
+    .none .rem{
+        margin-left: 50px;
+    }
+    .none .aza{
+        margin-left: 50px;
+    }
+    .nurm{
+        display: none;
+    }
+    .letter{
+        display: none;
+    }
+    .foot{
+        display: block;
+        margin-top: 10px;
+        margin-left: 50px;
+    }
+    .comp{
+        margin-left: 50px;
+    }
+    .exam{
+        display: block;
+        margin-left: 50px;
+    }
+    .ho{
+        display: none;
+    }
+    .va{
+        display: block;
+        margin-left: 23px;
+        margin-top: 15px;
+    }
+    .va .me{
+        margin-top: 10px;
+    }
+    .exam .ertug1, .ertug2, .ertug3, .ertug4{
+        margin-top: 10px;
+    }
+    .yok{
+        display: none;
+    }
+    .kani{
+        display: block;
+        
+    }
+.kani .phon1{
+    width: 300px;
+    height: 400px;
+    border: 1px solid white;
+    margin-left: 20px;
+    margin-top: 50px;
+} 
+.kani  .bra1{
+    line-height: 25px;
+    font-family: sans-serif;
+    
+}
+.kani .no1{
+    width: 350px;
+    height: 300px;
+    border: 1px solid white;
+    margin-top: 200px;
+    margin-left: 20px;
+    background-image: url(/images/Mask\ group\ \(1\).png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.basay{
+    width: 150px;
+    height: 50px;
+    display: block;
+    border: none;
+    border-radius: 20px;
+    background-color: green;
+    color: white;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+.op{
+    display: none;
+}
+.what{
+    display: block;
+    margin-left: 50px;
+}
+.feel{
+    display: none;
+}
+.sorry{
+    display: block;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+.why{
+    margin-left: 20px;
+}
+.sorry .dream, .today, .night{
+    margin-top: 10px;
+    margin-left: 20px;
+}
+.sorry .isnot{
+    margin-left: 25px;
+}
+.prob{
+    display: block;
+    display: flex;
+    margin-left: 50px;
+}
+.sum{
+    display: none;
+}
+.chiba{
+    margin-left: 20px;
+}
+.wow{
+    margin-left: 30px;
+}
+.nado{
+    display: block;
+}
+.space{
+    display: none;
+}
+.maket{
+    display: block;
+}
+.black{
+    display: none;
+}
+.done{
+    display: none;
+}
+
+}
